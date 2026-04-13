@@ -1,0 +1,13 @@
+bash 
+nano datos_mru.txt
+Escribe exactamente esto:
+text
+# tiempo(s) posicion(m)
+0 2
+1 5
+2 8
+3 11
+4 14
+5 17
+bash
+
