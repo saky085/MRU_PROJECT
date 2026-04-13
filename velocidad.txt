@@ -1,0 +1,2 @@
+Velocidad del móvil:  m/s
+Fórmula: posición(t) = datos_mru.txt +  × t
