@@ -1,0 +1,65 @@
+
+
+*******************************************************************************
+Tue Apr 14 07:40:29 2026
+
+
+FIT:    data read from "datos_mru.txt" using 1:2
+        format = x:z
+        #datapoints = 6
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(t)
+	f(t) = m*t + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 5.9100000000e+02   0.00e+00  7.07e-01    1.000000e+00   1.000000e+00
+BREAK: Singular matrix in Invert_RtR
+
+*******************************************************************************
+Tue Apr 14 07:41:42 2026
+
+
+FIT:    data read from "datos_mru.txt" using 1:2
+        format = x:z
+        #datapoints = 6
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(t)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 5.9100000000e+02   0.00e+00  7.07e-01    1.000000e+00   1.000000e+00
+BREAK: Singular matrix in Invert_RtR
+
+*******************************************************************************
+Tue Apr 14 07:43:05 2026
+
+
+FIT:    data read from "datos_mru.txt" using 1:2
+        format = x:z
+        #datapoints = 6
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = m*x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   m             b            
+   0 0.0000000000e+00  -nan       6.58e+00    3.000000e+00   2.000000e+00
+   1 0.0000000000e+00  -nan       6.58e-01    3.000000e+00   2.000000e+00
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 0
+abs. change during last iteration : 0
+
+
+Hmmmm.... Sum of squared residuals is zero. Can't compute errors.
+
+Final set of parameters 
+======================= 
+
+m               = 3              
+b               = 2              
